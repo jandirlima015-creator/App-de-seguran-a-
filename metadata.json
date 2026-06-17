@@ -1,0 +1,6 @@
+{
+  "name": "Relato de Segurança do Trabalho",
+  "description": "Plataforma integrada para registrar, analisar com Inteligência Artificial e compartilhar relatos de operações, desvios e atividades de risco de forma ágil e segura em campo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
